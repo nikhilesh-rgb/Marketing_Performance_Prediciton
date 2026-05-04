@@ -30,11 +30,11 @@ This project applies supervised learning models to predict `Units_Sold` from the
 |---|-------------------|----------|
 | RQ1 | How effectively do baseline models (Linear Regression, Decision Tree, K-NN) solve the prediction problem? | `RQ1_Baseline_Performance.ipynb` |
 | RQ2 | Which model achieves the best predictive performance? | `RQ2_Model_Comparison.ipynb` |
-| RQ3 | How do preprocessing strategies (no scaling, StandardScaler, MinMaxScaler) affect performance? | `RQ3_Preprocessing_Effect.ipynb` |
+| RQ3 | How do preprocessing strategies (no scaling, StandardScaler, MinMaxScaler) affect performance? | `RQ3_Preprocessing_Impact.ipynb` |
 | RQ4 | Which features contribute most to predicting Units Sold? | `RQ4_Feature_Importance.ipynb` |
-| RQ5 | How does model ranking change across different evaluation metrics? | `RQ5_Metrics_Sensitivity.ipynb` |
-| RQ6 | How robust is the best model across different CV settings and train-test splits? | `RQ6_Robustness.ipynb` |
-| RQ7 | What is the most practically useful, interpretable, and reliable model? | `RQ7_Final_Recommendation.ipynb` |
+| RQ5 | How does model ranking change across different evaluation metrics? | `RQ5_Sensitivity_to_Evaluation_Metrics.ipynb` |
+| RQ6 | How robust is the best model across different CV settings and train-test splits? | `RQ6_Robustness_and_Generalization.ipynb` |
+| RQ7 | What is the most practically useful, interpretable, and reliable model? | `RQ7_Final_Model.ipynb` |
 
 ---
 
