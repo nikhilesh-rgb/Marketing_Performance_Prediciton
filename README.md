@@ -11,13 +11,13 @@ This project applies supervised learning models to predict `Units_Sold` from the
 ## Repository Structure
 
 ```
-├── RQ1_Baseline_Performance.ipynb       # Linear Regression, Decision Tree, K-NN
-├── RQ2_Model_Comparison.ipynb           # All 6 models compared
-├── RQ3_Preprocessing_Impact.ipynb       # Scaling strategies compared
-├── RQ4_Feature_Importance.ipynb         # Random Forest feature importances
+├── RQ1_Baseline_Performance.ipynb                    # Linear Regression, Decision Tree, K-NN
+├── RQ2_Model_Comparison.ipynb                        # All 6 models compared
+├── RQ3_Preprocessing_Impact.ipynb                    # Scaling strategies compared
+├── RQ4_Feature_Importance.ipynb                      # Random Forest feature importances
 ├── RQ5_Sensitivity_to_Evaluation_Metrics.ipynb       # Ranking across MAE / RMSE / R²
-├── RQ6_Robustness_and_Generalization.ipynb                # CV folds & train-test split sensitivity
-├── RQ7_Final_Model.ipynb       # Full summary & final model choice
+├── RQ6_Robustness_and_Generalization.ipynb           # CV folds & train-test split sensitivity
+├── RQ7_Final_Model.ipynb                             # Full summary & final model choice
 ├── README.md
 └── requirements.txt
 ```
