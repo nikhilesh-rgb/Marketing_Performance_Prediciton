@@ -59,7 +59,7 @@ This project applies supervised learning models to predict `Units_Sold` from the
 
 ---
 
-## 🤖 Models Used
+## Models Used
 
 | Model | Type |
 |-------|------|
